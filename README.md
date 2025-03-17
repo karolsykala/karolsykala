@@ -32,6 +32,9 @@ Shell: bash
 
 Terminal: Kitty (obviously 😼)
 
+![2025-03-16-232002_hyprshot](https://github.com/user-attachments/assets/053773e4-9786-4b5f-8eeb-f712b09f0210)
+
+
 ## 📫 Reach Out
 
 🐦 Twitter: @mlem_dev
