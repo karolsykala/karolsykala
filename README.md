@@ -1,3 +1,44 @@
-## Hi!
+Hi there! 👋 🐱💻
 
-![me_at_work](https://github.com/user-attachments/assets/2b4f3d36-76f6-4401-9df1-2e172d149ed6)
+## 🛠️ About Me
+
+🏴‍☠️ Backend enjoyer
+
+🐈 Certified cat petter
+
+🎹 Piano enthusiast
+
+🎮 Soulslike tryhard
+
+**👀💼 Looking for work**
+
+## 🔥 Currently enjoying
+
+📝 Writing about my Linux setup & experiments
+
+💻 Becomming quite okay at js, python and Go
+
+⚙️ Tweaking my Hyprland config (because it's never just right)
+
+## 🚀 My Dev Setup
+
+OS: Arch Linux (btw) & macOS
+
+WM: Hyprland
+
+Editor: LazyVim
+
+Shell: bash
+
+Terminal: Kitty (obviously 😼)
+
+##📫 Reach Out
+
+🐦 Twitter: @mlem_dev
+
+📝 E-mail: [karol.sykala@protonmail.com](mailto:karol.sykala@protonmail.com)
+
+🌐 Blog: [kibbyblog.pages.dev]([url](https://kibbyblog.pages.dev/))
+
+🔗 LinkedIn: [Link]([url](https://www.linkedin.com/in/karolsykala/))
+
