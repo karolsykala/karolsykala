@@ -38,7 +38,7 @@ Terminal: Kitty (obviously 😼)
 
 📝 E-mail: [karol.sykala@protonmail.com](mailto:karol.sykala@protonmail.com)
 
-🌐 Blog: [kibbyblog.pages.dev]([url](https://kibbyblog.pages.dev/))
+🌐 Blog: [Link](https://kibbyblog.pages.dev/)
 
-🔗 LinkedIn: [Link]([url](https://www.linkedin.com/in/karolsykala/))
+🔗 LinkedIn: [Link](https://www.linkedin.com/in/karolsykala/)
 
