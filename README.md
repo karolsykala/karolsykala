@@ -32,7 +32,7 @@ Shell: bash
 
 Terminal: Kitty (obviously 😼)
 
-##📫 Reach Out
+## 📫 Reach Out
 
 🐦 Twitter: @mlem_dev
 
